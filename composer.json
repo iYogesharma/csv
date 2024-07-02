@@ -1,0 +1,21 @@
+{
+    "name": "iyogesharma/csv",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YS\\Csv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yogesh Sharma",
+            "email": "iyogesharma@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0",
+        "laravel/framework": ">=5.0"
+    }
+}
